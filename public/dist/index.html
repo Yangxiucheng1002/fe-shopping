@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,viewport-fit=cover">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+</head>
+<body>
+<noscript>
+    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+        Please enable it to continue.</strong>
+</noscript>
+<div id="app"></div>
+<div>
+    <video id="videoElement"></video>
+</div>
+<!-- built files will be auto injected -->
+<script src="./flv.js"></script>
+
+<script>
+if (flvjs.isSupported()) {
+    if (flvjs.isSupported()) {
+        var videoElement = document.getElementById('videoElement');
+        var flvPlayer = flvjs.createPlayer({
+            type: 'flv',
+            url: 'http://player0.tudou.com/flv/002/086/171/2086171.flv '
+        });
+        flvPlayer.attachMediaElement(videoElement);
+        flvPlayer.load();
+        flvPlayer.play();
+    }
+    }
+</script>
+</body>
+</html>

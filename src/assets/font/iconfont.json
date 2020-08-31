@@ -1,0 +1,135 @@
+{
+  "id": "855574",
+  "name": "pos",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13289123",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13395335",
+      "name": "首页-选中",
+      "font_class": "icon_home",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "15088458",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15251174",
+      "name": "个人中心",
+      "font_class": "ren",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "15838424",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "2931559",
+      "name": "下降",
+      "font_class": "xiajiang1",
+      "unicode": "e928",
+      "unicode_decimal": 59688
+    },
+    {
+      "icon_id": "9771966",
+      "name": "上升",
+      "font_class": "shangsheng",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "11363442",
+      "name": "点击",
+      "font_class": "dianji",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "2321538",
+      "name": "趋势图",
+      "font_class": "eng",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "2588802",
+      "name": "水系统",
+      "font_class": "shuixitong",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "4052294",
+      "name": "运行状态",
+      "font_class": "ecs-running",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5232323",
+      "name": "合格率",
+      "font_class": "hegeshuai",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "10183528",
+      "name": "管网",
+      "font_class": "guanwang",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "10971736",
+      "name": "耗水",
+      "font_class": "haoshui",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11058895",
+      "name": "浓缩",
+      "font_class": "nongsuo",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "11298239",
+      "name": "电耗分析",
+      "font_class": "dianhaofenxi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12770654",
+      "name": "icon_药耗",
+      "font_class": "icon_yaohao",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "13819134",
+      "name": "固废",
+      "font_class": "gufei",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
